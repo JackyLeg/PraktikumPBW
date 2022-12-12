@@ -1,0 +1,24 @@
+table {
+	color: #333;
+	font-family: Verdana, sans-serif;
+	font-size: small;
+	width: 700px;
+	border-collapse: collapse;
+	border-spacing: 0;
+}
+td,th{
+	border: 1px solid #ccc;
+	height: 30px;
+}
+th{
+	background: #99cc99;
+	font-weight: bold;
+}
+td {
+	background: white;
+	text-align: center;
+}
+p,a,h2{
+	color: #333;
+	font-family: Verdana, sans-serif;
+}
